@@ -11,23 +11,11 @@ const data = [
     color: "hsl(169, 90%, 40%)"
   },
   {
-    id: "Crimes sexuels",
-    label: "sexu",
-    value: 0,
-    color: "hsl(182, 70%, 50%)"
-  },
-  {
     id: "Atteintes à la réputation",
     label: "reput",
     value: 64,
     color: "hsl(158, 40%, 50%)"
   },
-  {
-    id: "Darknet",
-    label: "dark",
-    value: 0,
-    color: "hsl(73, 70%, 50%)"
-  }
 ];
 
 export default function Leses() {
