@@ -22,12 +22,6 @@ const data = [
     value: 465,
     color: "hsl(166, 70%, 50%)"
   },
-  {
-    id: "Darknet",
-    label: "dark",
-    value: 0,
-    color: "hsl(73, 70%, 50%)"
-  }
 ];
 
 export default function Leses() {
