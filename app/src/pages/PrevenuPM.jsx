@@ -11,23 +11,11 @@ const data = [
     color: "hsl(160, 90%, 40%)"
   },
   {
-    id: "Cyber-délits sexuels",
-    label: "sexu",
-    value: 0,
-    color: "hsl(182, 70%, 50%)"
-  },
-  {
     id: "Cyber-atteintes à la réputation &",
     label: "reput",
     value: 1,
     color: "hsl(108, 70%, 50%)"
   },
-  {
-    id: "Darknet",
-    label: "dark",
-    value: 0,
-    color: "hsl(73, 70%, 50%)"
-  }
 ];
 
 export default function PrevenuPM() {
