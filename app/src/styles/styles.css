@@ -4,8 +4,8 @@
   --color-primary: #368d63;
   --wrapper-height: 85vh;
   --image-max-width: 320px;
-  --font-family: "HK Grotesk";
-  --font-family-header: "HK Grotesk";
+  --font-family: "Arial";
+  --font-family-header: "Arial";
 }
 
 * {
@@ -16,19 +16,19 @@
 }
 
 @font-face {
-  font-family: HK Grotesk;
+  font-family: Arial;
   src: url("https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
     format("opentype");
 }
 @font-face {
-  font-family: HK Grotesk;
+  font-family: Arial;
   font-weight: bold;
   src: url("https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
     format("opentype");
 }
 
 .btn--remix {
-  font-family: HK Grotesk;
+  font-family: Arial;
   padding: 0.75rem 1rem;
   font-size: 1.1rem;
   line-height: 1rem;
@@ -63,7 +63,7 @@
 
 .footer a:not(.btn--remix):link,
 a:not(.btn--remix):visited {
-  font-family: Century Gothic;
+  font-family: Arial;
   font-style: normal;
   font-weight: normal;
   font-size: 1.1rem;
@@ -86,7 +86,7 @@ a:not(.btn--remix):visited {
 }
 
 body {
-  font-family: HK Grotesk;
+  font-family: Arial;
   background-color: var(--color-bg);
 }
 .wrapper {
@@ -105,7 +105,7 @@ body {
 
 h1 {
   color: #3af900;
-  font-family: Century Gothic;
+  font-family: Arial;
   font-style: normal;
   font-weight: bold;
   font-size: 50px;
@@ -114,7 +114,7 @@ h1 {
 }
 p {
   color: #3af900;
-  font-family: Century Gothic;
+  font-family: Arial;
 }
 .page h1 {
   font-size: 48px;
@@ -135,7 +135,7 @@ p {
 
 p2 {
   color: #3af900;
-  font-family: Century Gothic;
+  font-family: Arial;
   font-size: 11px;
 }
 
