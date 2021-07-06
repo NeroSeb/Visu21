@@ -11,7 +11,7 @@ const data = [
     color: "hsl(160, 90%, 40%)"
   },
   {
-    id: "Cyber-atteintes à la réputation &",
+    id: "Cyber-atteintes à la réputation",
     label: "reput",
     value: 1,
     color: "hsl(108, 70%, 50%)"
